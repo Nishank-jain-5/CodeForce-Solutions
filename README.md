@@ -76,13 +76,13 @@ Topics will be added as I practice them.
 
 ## 📊 Progress Tracker
 
-| Difficulty | Problems Solved |
-|------------|-----------------|
-| 800        | 2               |
-| 900        | 0               |
-| 1000       | 0               |
-| 1100       | 0               |
-| 1200       | 0               |
+| Difficulty | Problems Solved  |
+|------------|------------------|
+| 800        | 30               |
+| 900        | 13               |
+| 1000       | 0                |
+| 1100       | 0                |
+| 1200       | 0                |
 
 *I will update this tracker as I add solutions.*
 
