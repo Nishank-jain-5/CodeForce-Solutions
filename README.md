@@ -83,6 +83,7 @@ Topics will be added as I practice them.
 | 1000       | 0                |
 | 1100       | 0                |
 | 1200       | 0                |
+| Contest    | 7                |
 
 *I will update this tracker as I add solutions.*
 
