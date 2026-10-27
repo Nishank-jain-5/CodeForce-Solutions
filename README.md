@@ -79,7 +79,7 @@ Topics will be added as I practice them.
 | Difficulty | Problems Solved  |
 |------------|------------------|
 | 800        | 30               |
-| 900        | 13               |
+| 900        | 18               |
 | 1000       | 0                |
 | 1100       | 0                |
 | 1200       | 0                |
